@@ -11,3 +11,7 @@
 
 > 20250703_DocLayNet 데이터셋 공부 & 데이터 라벨링 수정 & AI Labeling 검토 <br>
 > [DocLayNet 데이터셋 공부 & 데이터 라벨링 수정 & AI Labeling 검토](https://github.com/daanhaa/labeling/blob/main/20250703.md)
+<br>
+
+> 20250704_ AI Labeling 검토 및 수정 <br>
+> [AI Labeling 검토 및 수정](https://github.com/daanhaa/labeling/blob/main/20250704.md)
