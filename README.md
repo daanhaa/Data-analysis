@@ -15,3 +15,7 @@
 
 > 20250704_ AI Labeling 검토 및 수정 <br>
 > [AI Labeling 검토 및 수정](https://github.com/daanhaa/labeling/blob/main/20250704.md)
+<br>
+
+> 20250707_ AI Labeling 검토 및 수정 250개 완료 <br>
+> [AI Labeling 검토 및 수정](https://github.com/daanhaa/labeling/blob/main/20250707.md)
