@@ -23,3 +23,9 @@
 
 > 20250708_ AI Labeling 검토 및 수정 6월 Layout Analysis 완료 <br>
 > [AI Labeling 검토 및 수정_6월 Layout Analysis 완료](https://github.com/daanhaa/labeling/blob/main/20250708.md)
+<br>
+
+> 20250709_ 데이터 분석 <br>
+> [데이터 분석](https://github.com/daanhaa/labeling/blob/main/20250709.md)
+<br>
+
