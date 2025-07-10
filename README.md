@@ -29,3 +29,8 @@
 > [데이터 분석](https://github.com/daanhaa/labeling/blob/main/20250709.md)
 <br>
 
+> 20250710_ 데이터 분석 2 + 크롤링 환경 세팅 <br>
+> [데이터 분석 2](https://github.com/daanhaa/labeling/blob/main/20250710.md)
+<br>
+
+
