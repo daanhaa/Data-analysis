@@ -33,4 +33,6 @@
 > [데이터 분석 2](https://github.com/daanhaa/labeling/blob/main/20250710.md)
 <br>
 
-
+> 20250711_ 웹 크롤링해서 데이터 다운받기 <br>
+> [웹 크롤링_데이터다운](https://github.com/daanhaa/labeling/blob/main/20250711.md)
+<br>
