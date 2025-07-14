@@ -36,3 +36,7 @@
 > 20250711_ 웹 크롤링해서 데이터 다운받기 <br>
 > [웹 크롤링_데이터다운](https://github.com/daanhaa/labeling/blob/main/20250711.md)
 <br>
+
+> 20250714_ 웹 크롤링해서 데이터 다운받기2 <br>
+> [웹 크롤링_데이터다운2](https://github.com/daanhaa/labeling/blob/main/20250714.md)
+<br>
