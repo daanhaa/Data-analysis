@@ -42,7 +42,7 @@
 <br>
 
 > 20250715_ 웹 크롤링해서 데이터 다운받기3 & 앞으로의 데이터 수집 방향성 재설정 <br>
-> [웹 크롤링_데이터다운2](https://github.com/daanhaa/labeling/blob/main/20250715.md)
+> [웹 크롤링_데이터다운3](https://github.com/daanhaa/labeling/blob/main/20250715.md)
 <br>
 
 > 20250716_ 크롤링하여 데이터 수집 <br>
