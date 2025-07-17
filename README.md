@@ -48,3 +48,7 @@
 > 20250716_ 크롤링하여 데이터 수집 <br>
 > [크롤링하여 데이터 수집](https://github.com/daanhaa/labeling/blob/main/20250716.md)
 <br>
+
+> 20250717_ 크롤링하여 데이터 수집 & 자료별 카테고리 분류 <br>
+> [크롤링하여 데이터 수집 & 자료별 카테고리 분류](https://github.com/daanhaa/labeling/blob/main/20250717.md)
+<br>
