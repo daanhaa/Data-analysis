@@ -52,3 +52,8 @@
 > 20250717_ 크롤링하여 데이터 수집 & 자료별 카테고리 분류 <br>
 > [크롤링하여 데이터 수집 & 자료별 카테고리 분류](https://github.com/daanhaa/labeling/blob/main/20250717.md)
 <br>
+
+> 20250718_ 데이터 크롤링 및 url 정리 <br>
+> [데이터 크롤링 및 url 정리](https://github.com/daanhaa/labeling/blob/main/20250718.md)
+<br>
+
