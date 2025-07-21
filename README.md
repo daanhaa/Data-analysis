@@ -57,7 +57,7 @@
 > [데이터 크롤링 및 url 정리](https://github.com/daanhaa/labeling/blob/main/20250718.md)
 <br>
 
-> 20250732_ 데이터 크롤링, 카테고리 분류 및 url JSON 파일로 정리 <br>
+> 20250721_ 데이터 크롤링, 카테고리 분류 및 url JSON 파일로 정리 <br>
 > [크롤링 및 JSON 파일 정리](https://github.com/daanhaa/labeling/blob/main/20250721.md)
 <br>
 
