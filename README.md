@@ -65,4 +65,7 @@
 > [데이터 크롤링 및 json 파일 정리](https://github.com/daanhaa/labeling/blob/main/20250722.md)
 <br>
 
+> 20250723_ 데이터 크롤링 및 json 파일 정리 자동화 <br>
+> [데이터 크롤링 및 json 파일 정리 자동화](https://github.com/daanhaa/labeling/blob/main/20250723.md)
+<br>
 
