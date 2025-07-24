@@ -69,3 +69,6 @@
 > [데이터 크롤링 및 json 파일 정리 자동화](https://github.com/daanhaa/labeling/blob/main/20250723.md)
 <br>
 
+> 20250724_ labeling 1차 진행된 데이터셋 labeling 진행 <br>
+> [labeling 1차 진행된 데이터셋 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250724.md)
+<br>
