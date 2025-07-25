@@ -72,3 +72,7 @@
 > 20250724_ labeling 1차 진행된 데이터셋 labeling 진행 <br>
 > [labeling 1차 진행된 데이터셋 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250724.md)
 <br>
+
+> 20250725_ 데이터 labeling 진행 <br>
+> [데이터 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250725.md)
+<br>
