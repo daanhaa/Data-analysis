@@ -76,3 +76,7 @@
 > 20250725_ 데이터 labeling 진행 <br>
 > [데이터 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250725.md)
 <br>
+
+> 20250728_ labeling 진행 <br>
+> [labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250728.md)
+<br>
