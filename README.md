@@ -80,3 +80,7 @@
 > 20250728_ labeling 진행 <br>
 > [labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250728.md)
 <br>
+
+> 20250729_ labeling 진행_448~588 <br>
+> [labeling 진행_448~588](https://github.com/daanhaa/labeling/blob/main/20250729.md)
+<br>
