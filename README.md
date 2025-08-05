@@ -100,3 +100,7 @@
 > 20250804_ Internet Archive labeling 완료 & nanet labeling 진행<br>
 > [Internet Archive labeling 완료 & nanet labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250804.md)
 <br>
+
+> 20250805_Nanet 사이트 labeling 진행<br>
+> [Nanet 사이트 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250805.md)
+<br>
