@@ -104,3 +104,7 @@
 > 20250805_Nanet 사이트 labeling 진행<br>
 > [Nanet 사이트 labeling 진행](https://github.com/daanhaa/labeling/blob/main/20250805.md)
 <br>
+
+> 20250806_labeling 진행 545/989<br>
+> [labeling 진행 545/989](https://github.com/daanhaa/labeling/blob/main/20250806.md)
+<br>
