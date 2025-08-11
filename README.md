@@ -119,5 +119,5 @@
 
 
 > 20250811_MIT사이트 labeling 완료<br>
-> [MIT사이트 labeling 완료]](https://github.com/daanhaa/labeling/blob/main/20250811.md)
+> [MIT사이트 labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250811.md)
 <br>
