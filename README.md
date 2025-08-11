@@ -116,3 +116,8 @@
 > 20250808_nanet사이트 labeling 완료<br>
 > [nanet사이트 labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250808.md)
 <br>
+
+
+> 20250811_MIT사이트 labeling 완료<br>
+> [MIT사이트 labeling 완료]](https://github.com/daanhaa/labeling/blob/main/20250811.md)
+<br>
