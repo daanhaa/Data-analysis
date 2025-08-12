@@ -117,7 +117,10 @@
 > [nanet사이트 labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250808.md)
 <br>
 
-
 > 20250811_MIT사이트 labeling 완료<br>
 > [MIT사이트 labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250811.md)
+<br>
+
+> 20250811_OpenStax labeling 진행 288/2607<br>
+> [OpenStax labeling 진행 288/2607](https://github.com/daanhaa/labeling/blob/main/20250812.md)
 <br>
