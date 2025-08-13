@@ -121,6 +121,10 @@
 > [MIT사이트 labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250811.md)
 <br>
 
-> 20250811_OpenStax labeling 진행 288/2607<br>
+> 20250812_OpenStax labeling 진행 288/2607<br>
 > [OpenStax labeling 진행 288/2607](https://github.com/daanhaa/labeling/blob/main/20250812.md)
+<br>
+
+> 20250813_OpenStax labeling 진행 527/2607<br>
+> [OpenStax labeling 진행 527/2607](https://github.com/daanhaa/labeling/blob/main/20250813.md)
 <br>
