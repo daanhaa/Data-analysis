@@ -144,3 +144,7 @@
 > 20250820_OpenStax labeling 진행 1337/2607<br>
 > [OpenStax labeling 진행 1337/2607](https://github.com/daanhaa/labeling/blob/main/20250820.md)
 <br>
+
+> 20250821_OpenStax labeling 진행 1540/2607<br>
+> [OpenStax labeling 진행 1540/2607](https://github.com/daanhaa/labeling/blob/main/20250821.md)
+<br>
