@@ -164,3 +164,7 @@
 > 20250828_OpenStax labeling 진행 2500/2607<br>
 > [OpenStax labeling 진행 2500/2607](https://github.com/daanhaa/labeling/blob/main/20250828.md)
 <br>
+
+> 20250829_OpenStax labeling 완료<br>
+> [OpenStax labeling 완료](https://github.com/daanhaa/labeling/blob/main/20250829.md)
+<br>
